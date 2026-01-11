@@ -1,0 +1,33 @@
+{
+    "defaults": {
+        "alpha": 4.0,
+        "beta": 1.0
+    },
+    "presets": [
+        {
+            "name": "Balanced",
+            "alpha": 1.0,
+            "beta": 1.0
+        },
+        {
+            "name": "Dip Hunter",
+            "alpha": 2.5,
+            "beta": 0.5
+        },
+        {
+            "name": "Trend Follower",
+            "alpha": 0.5,
+            "beta": 2.5
+        },
+        {
+            "name": "High Octane",
+            "alpha": 2.0,
+            "beta": 2.5
+        },
+        {
+            "name": "Value Hunter",
+            "alpha": 4.0,
+            "beta": 1.0
+        }
+    ]
+}
